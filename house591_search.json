@@ -1,0 +1,2826 @@
+{
+    "status": 1,
+    "data": {
+        "topData": [
+            {
+                "title": "樹德國際學苑-雙人豪華大套房",
+                "type": 1,
+                "post_id": 12441843,
+                "price": "5,934",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2014/04/11/139718586414601203.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2016/04/19/146104816122268804.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2016/04/19/146104816278847405.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564196399105.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564200830902.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564205336203.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788564210617900.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564212155600.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564216303906.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788564219582505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788564224524507.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564227932905.jpg!510x400.jpg"
+                ],
+                "section_name": "燕巢區",
+                "street_name": "興龍路",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    }
+                ],
+                "area": "7.2",
+                "surrounding": {
+                    "type": "restaurant",
+                    "desc": "距筱喻早餐",
+                    "distance": "238公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "(大陽台)漢神巨蛋優質獨立套房",
+                "type": 1,
+                "post_id": 12609879,
+                "price": "9,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2018/03/09/152060376770723507.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2018/03/09/152060386789626606.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2018/03/09/152060387689991200.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622627029634702.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/12/05/138622627712939501.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2012/06/01/133853178224201103.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/12/05/138622629904184801.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/12/05/138622629366758006.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622628681429307.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2012/06/01/133853180721575003.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622633177293309.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2012/06/24/134054541131888400.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622775341663201.jpg!510x400.jpg"
+                ],
+                "section_name": "左營區",
+                "street_name": "文萊路",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    }
+                ],
+                "area": "9",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距生態園區站",
+                    "distance": "729公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "三多商圈/捷運站/電梯陽台-永康街",
+                "type": 1,
+                "post_id": 12486114,
+                "price": "6,200",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2021/10/15/163428359384875806.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428359350380303.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/10/15/163428357667951209.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428357647617105.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428357656216308.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428357745204101.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/30/156981294317650800.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/30/156981294235494107.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/02/17/158193595097607805.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029317432943202.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/09/30/156981296638682302.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/30/156981296632302609.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "永康街",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "5",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運三多商圈站",
+                    "distance": "593公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "光華商圈/電梯陽台/歡迎高師大-廣東街",
+                "type": 1,
+                "post_id": 12392796,
+                "price": "5,900",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2021/08/28/163013352944606205.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028792170893007.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028782440170406.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028782066233201.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028781994551106.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028784219073403.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028794093824404.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/04/09/161795017197961501.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/04/09/161795017065901002.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013356060235805.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/28/163013355828620408.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013356146904707.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013355929907608.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "廣東二街",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    }
+                ],
+                "area": "5",
+                "surrounding": {
+                    "type": "restaurant",
+                    "desc": "距細說晨食",
+                    "distance": "6公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "自強/建國變頻冷氣自強",
+                "type": 1,
+                "post_id": 12398162,
+                "price": "6,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/01/01/164102087341773208.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/01/164102087306809206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/01/164102091948063606.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/24/163772053386062003.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/11/24/163772053225729107.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/24/163772053276477105.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/11/24/163772053494803704.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029474240241007.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029474344522304.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029474161798002.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/09/29/156974151844755706.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/29/156974151936372204.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/09/29/156974152044026503.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/09/29/156974152371016900.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/29/156974152271209702.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "自強一路",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "6",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運市議會(舊址)",
+                    "distance": "828公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "近信義國小/寬敞、明亮🏠3大房",
+                "type": 1,
+                "post_id": 12562994,
+                "price": "12,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/04/08/164938103751480602.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938103861809204.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938103862692308.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938104110826906.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938104166265402.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938104563735807.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938104070219401.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938104593435403.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938104520908202.jpg!510x400.jpg"
+                ],
+                "section_name": "新興區",
+                "street_name": "渤海街",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "23.6",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運信義國小站",
+                    "distance": "188公尺"
+                },
+                "community": "",
+                "room_str": "3房",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "近高醫商圈/簡約.寬敞.明亮－山東街",
+                "type": 1,
+                "post_id": 12393025,
+                "price": "4,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/04/07/164929808077735403.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929808956579004.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929808984514409.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929809709310504.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929809958372502.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929810736278404.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929810847645508.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929810931312107.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929811518386402.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929811612800103.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929812251794502.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929821460581207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929821485010806.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "山東街",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "5",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距高雄車站",
+                    "distance": "340公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "高醫.巨蛋.美術館全新1大房2廳2陽台",
+                "type": 1,
+                "post_id": 12525331,
+                "price": "20,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/05/01/165138942226699801.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138939702421608.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138943760603204.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138945407053205.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138946898952908.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138947131316701.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138954970535502.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/01/165138957318597006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138957329538701.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138957518537505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/01/165138967821035504.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "十全三路",
+                "rent_tag": [
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    }
+                ],
+                "area": "23",
+                "surrounding": {
+                    "type": "bus_station",
+                    "desc": "距變電所(中華二路)",
+                    "distance": "90公尺"
+                },
+                "community": "美術大悅",
+                "room_str": "1房",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "生活機能優｜大坪數空間｜採光佳｜建國三路",
+                "type": 1,
+                "post_id": 12599503,
+                "price": "9,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/04/15/164998581137945209.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998673038395500.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998675465044706.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998643162923406.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/05/165174787829182702.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998662050159205.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998647688546506.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998664852919103.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998677701131006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998669886280308.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998671370237206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998681717675606.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998699601664906.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164999838565082809.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164999831723531402.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "建國三路",
+                "rent_tag": [
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    }
+                ],
+                "area": "7",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運市議會(舊址)",
+                    "distance": "876公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "武嶺-優質套房，可做員工宿舍，可開發票",
+                "type": 1,
+                "post_id": 12392996,
+                "price": "6,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2021/08/30/163029550468985303.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029550771163603.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029544816541203.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029544567221800.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029547960088105.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029548013114308.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029550842785600.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029551033361703.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029560049562104.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029557774375207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029560681705203.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029556622199306.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029556378157500.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "武嶺街",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "7",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距技擊館站",
+                    "distance": "724公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "三多商圈/捷運站四季花香永康",
+                "type": 1,
+                "post_id": 12392946,
+                "price": "5,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/04/23/165070497054744903.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028715248899902.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428411423074302.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/10/15/163428408907978004.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028715181364300.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428416284028105.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028721932753207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/28/163013304809251904.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028663150428504.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013305770737008.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "永康街",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "5",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運三多商圈站",
+                    "distance": "622公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "大3房簡約住宅－「四季花香-仁智」",
+                "type": 1,
+                "post_id": 12514786,
+                "price": "17,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2019/06/13/156040413776309503.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/06/13/156040415072132809.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040413891427006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414030882005.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414274911904.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414392867306.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/06/13/156040414518119304.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414635564901.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/06/13/156040414159148303.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/06/13/156040415216289401.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/06/13/156040414785893204.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414954161808.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "仁智街",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "28",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運三多商圈站",
+                    "distance": "617公尺"
+                },
+                "community": "大統名人世界",
+                "room_str": "3房",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "全新美麗島捷運站電梯大樓套房",
+                "type": 1,
+                "post_id": 12486161,
+                "price": "7,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2021/06/09/162323119305568101.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/07/18/162657972222156202.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/05/05/162017842488139701.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/07/25/162720836607635427.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/07/25/162720836615229335.jpg!510x400.jpg"
+                ],
+                "section_name": "新興區",
+                "street_name": "七賢二路",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "9",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距美麗島站",
+                    "distance": "351公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "室內坪數大交通便利台鐵科工館站",
+                "type": 1,
+                "post_id": 12365330,
+                "price": "22,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/03/31/164870408657786402.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870408659403406.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870408745080106.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870408779485804.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870408842105802.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870410703120409.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/31/164870410783271309.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870411221634900.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870411247190207.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870435370066505.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164871056481955100.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "九如一路",
+                "rent_tag": [
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "25.5",
+                "surrounding": {
+                    "type": "bus_station",
+                    "desc": "距臺鐵科工館站",
+                    "distance": "239公尺"
+                },
+                "community": "漢泰大樓",
+                "room_str": "2房",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "全新完工夏之舞天山",
+                "type": 1,
+                "post_id": 12486125,
+                "price": "6,600",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/03/01/164609833351430207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/01/164609833136091609.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/01/164609833300689505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/01/164609833374811704.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/01/164609833483483109.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/30/156983215877015000.jpg!510x400.jpg"
+                ],
+                "section_name": "前鎮區",
+                "street_name": "天山路",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    }
+                ],
+                "area": "6",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距獅甲站",
+                    "distance": "841公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "鳳山市區｜捷運｜大東藝術中心｜大東聚匯",
+                "type": 1,
+                "post_id": 12422266,
+                "price": "7,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/04/11/164965867122063600.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965894127650509.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965896096545407.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965903336333003.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965906202349801.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965913749114909.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965913775686306.png!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965913970319709.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965913966602504.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965914057102409.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965914105708401.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965918460632709.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/23/165070429176446506.jpg!510x400.jpg"
+                ],
+                "section_name": "鳳山區",
+                "street_name": "中山路",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "5",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距鳳山站",
+                    "distance": "154公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "近高醫/電梯套房－「冬之戀-旅順」",
+                "type": 1,
+                "post_id": 12398111,
+                "price": "6,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2021/01/11/161033109818815700.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/03/18/158450944882505107.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/09/164679217818418004.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/09/164679218110007604.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/09/164679217734808208.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/09/164679217859044601.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/09/164679217903397005.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/09/164679218026822201.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/12/22/157697731565124706.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/03/18/158450978893493208.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/03/18/158450978845896400.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "旅順街",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    }
+                ],
+                "area": "5",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距高雄車站",
+                    "distance": "887公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "近高醫/後驛站冬之戀綏遠",
+                "type": 1,
+                "post_id": 12392891,
+                "price": "6,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2020/05/15/158950652302879507.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652241811506.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652391820609.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950652849261900.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950652283099001.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950653146989702.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950653102017206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950652156457908.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950652606303006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652890426204.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950657254399006.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "綏遠二街",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "5",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距後驛",
+                    "distance": "281公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "一公里到新崛江，前方就是雄商",
+                "type": 1,
+                "post_id": 12314305,
+                "price": "4,800",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2021/02/17/161352713144027808.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/02/17/161352719713497206.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/02/17/161352723054309404.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/02/17/161352723220347602.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782797482143403.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782797572383706.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782797650359305.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782800089996409.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782800078614207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782800318015505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782806860824402.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782806906326206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782806920466203.jpg!510x400.jpg"
+                ],
+                "section_name": "新興區",
+                "street_name": "復興一路",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "4.5",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運信義國小站",
+                    "distance": "483公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "可短租.全新高醫Villa六星時尚套房",
+                "type": 1,
+                "post_id": 12606144,
+                "price": "7,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2013/06/18/137154393854529300.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/01/26/161159307666382605.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/06/18/137154391587126309.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/06/18/137154391868623904.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/06/18/137154392680368900.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/06/18/137154393086438205.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/06/18/137154393237069003.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/06/18/137154393493899908.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/06/18/137154393652609706.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "瀋陽街",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    }
+                ],
+                "area": "9",
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距高雄車站",
+                    "distance": "616公尺"
+                },
+                "community": "",
+                "room_str": "",
+                "is_video": 0,
+                "preferred": 0
+            }
+        ],
+        "biddings": [],
+        "data": [
+            {
+                "title": "武嶺-優質套房，可做員工宿舍，可開發票",
+                "type": "1",
+                "post_id": 12392996,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "3F/5F",
+                "community": "",
+                "price": "6,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2021/08/30/163029550468985303.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029550771163603.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029544816541203.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029544567221800.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029547960088105.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029548013114308.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029550842785600.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029551033361703.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029560049562104.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029557774375207.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029560681705203.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029556622199306.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029556378157500.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "武嶺街",
+                "location": "苓雅區-武嶺街21巷35號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    },
+                    {
+                        "id": "15",
+                        "name": "可短租"
+                    }
+                ],
+                "area": "7",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 109,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距技擊館站",
+                    "distance": "724公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "三多商圈/捷運站/電梯陽台-永康街",
+                "type": "1",
+                "post_id": 12486114,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "1F/5F",
+                "community": "",
+                "price": "6,200",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2021/10/15/163428359384875806.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/10/15/163428359350380303.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428357667951209.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/10/15/163428357647617105.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428357656216308.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428357745204101.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/09/30/156981294317650800.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/30/156981294235494107.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/02/17/158193595097607805.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029317432943202.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/30/156981296638682302.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/30/156981296632302609.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "永康街",
+                "location": "苓雅區-永康街60巷2號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 62,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運三多商圈站",
+                    "distance": "593公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "全新完工夏之舞天山",
+                "type": "1",
+                "post_id": 12486125,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "2F/7F",
+                "community": "",
+                "price": "6,600",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/03/01/164609833351430207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/01/164609833136091609.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/01/164609833300689505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/01/164609833374811704.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/01/164609833483483109.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/09/30/156983215877015000.jpg!510x400.jpg"
+                ],
+                "section_name": "前鎮區",
+                "street_name": "天山路",
+                "location": "前鎮區-天山路23號",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "6",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 51,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距獅甲站",
+                    "distance": "841公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "近高醫商圈/簡約.寬敞.明亮－山東街",
+                "type": "1",
+                "post_id": 12393025,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "5F/5F",
+                "community": "",
+                "price": "4,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/04/07/164929808077735403.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929808956579004.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929808984514409.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929809709310504.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929809958372502.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929810736278404.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929810847645508.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929810931312107.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929811518386402.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929811612800103.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929812251794502.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/07/164929821460581207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/07/164929821485010806.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "山東街",
+                "location": "三民區-山東街37巷5號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "15",
+                        "name": "可短租"
+                    }
+                ],
+                "area": "5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 102,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距高雄車站",
+                    "distance": "340公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "三多商圈/捷運站四季花香永康",
+                "type": "1",
+                "post_id": 12392946,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "1F/3F",
+                "community": "",
+                "price": "5,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/04/23/165070497054744903.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028715248899902.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/10/15/163428411423074302.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428408907978004.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028715181364300.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/10/15/163428416284028105.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028721932753207.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013304809251904.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028663150428504.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013305770737008.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "永康街",
+                "location": "苓雅區-永康街99號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "15",
+                        "name": "可短租"
+                    }
+                ],
+                "area": "5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 67,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運三多商圈站",
+                    "distance": "622公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "自強/建國變頻冷氣自強",
+                "type": "1",
+                "post_id": 12398162,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "1F/2F",
+                "community": "",
+                "price": "6,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/01/01/164102087341773208.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/01/164102087306809206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/01/164102091948063606.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/11/24/163772053386062003.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/24/163772053225729107.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/24/163772053276477105.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/11/24/163772053494803704.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163029474240241007.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029474344522304.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163029474161798002.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/29/156974151844755706.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/29/156974151936372204.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/29/156974152044026503.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/09/29/156974152371016900.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/09/29/156974152271209702.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "自強一路",
+                "location": "三民區-自強一路243巷3號",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "6",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 71,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運市議會(舊址)",
+                    "distance": "828公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "一公里到新崛江，前方就是雄商",
+                "type": "1",
+                "post_id": 12314305,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "4F/4F",
+                "community": "",
+                "price": "4,800",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2021/02/17/161352713144027808.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/02/17/161352719713497206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/02/17/161352723054309404.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/02/17/161352723220347602.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782797482143403.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782797572383706.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782797650359305.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782800089996409.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782800078614207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782800318015505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782806860824402.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/21/164782806906326206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/21/164782806920466203.jpg!510x400.jpg"
+                ],
+                "section_name": "新興區",
+                "street_name": "復興一路",
+                "location": "新興區-復興一路5號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "4.5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 114,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運信義國小站",
+                    "distance": "483公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "室內坪數大交通便利台鐵科工館站",
+                "type": "1",
+                "post_id": 12365330,
+                "kind_name": "整層住家",
+                "room_str": "2房2廳",
+                "floor_str": "5F/12F",
+                "community": "漢泰大樓",
+                "price": "22,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/03/31/164870408657786402.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870408659403406.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/31/164870408745080106.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/31/164870408779485804.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870408842105802.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/31/164870410703120409.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/31/164870410783271309.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870411221634900.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/31/164870411247190207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/31/164870435370066505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/31/164871056481955100.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "九如一路",
+                "location": "三民區-九如一路529號",
+                "rent_tag": [
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    }
+                ],
+                "area": "25.5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 45,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "bus_station",
+                    "desc": "距臺鐵科工館站",
+                    "distance": "239公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": "",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "近高醫/電梯套房－「冬之戀-旅順」",
+                "type": "1",
+                "post_id": 12398111,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "3F/5F",
+                "community": "",
+                "price": "6,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2021/01/11/161033109818815700.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/03/18/158450944882505107.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/09/164679217818418004.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/09/164679218110007604.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/09/164679217734808208.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/09/164679217859044601.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/09/164679217903397005.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/09/164679218026822201.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/12/22/157697731565124706.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/03/18/158450978893493208.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/03/18/158450978845896400.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "旅順街",
+                "location": "三民區-旅順街96號",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 113,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距高雄車站",
+                    "distance": "887公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "鳳山市區｜捷運｜大東藝術中心｜大東聚匯",
+                "type": "1",
+                "post_id": 12422266,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "2F/15F",
+                "community": "",
+                "price": "7,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/04/11/164965867122063600.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965894127650509.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965896096545407.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965903336333003.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965906202349801.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965913749114909.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965913775686306.png!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965913970319709.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/11/164965913966602504.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965914057102409.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965914105708401.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/11/164965918460632709.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/23/165070429176446506.jpg!510x400.jpg"
+                ],
+                "section_name": "鳳山區",
+                "street_name": "中山路",
+                "location": "鳳山區-中山路2巷",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 201,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距鳳山站",
+                    "distance": "154公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "全新美麗島捷運站電梯大樓套房",
+                "type": "1",
+                "post_id": 12486161,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "10F/12F",
+                "community": "",
+                "price": "7,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2021/06/09/162323119305568101.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/07/18/162657972222156202.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/05/05/162017842488139701.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/07/25/162720836607635427.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/07/25/162720836615229335.jpg!510x400.jpg"
+                ],
+                "section_name": "新興區",
+                "street_name": "七賢二路",
+                "location": "新興區-七賢二路25號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    },
+                    {
+                        "id": "15",
+                        "name": "可短租"
+                    }
+                ],
+                "area": "9",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 108,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距美麗島站",
+                    "distance": "351公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "近信義國小/寬敞、明亮🏠3大房",
+                "type": "1",
+                "post_id": 12562994,
+                "kind_name": "整層住家",
+                "room_str": "3房2廳",
+                "floor_str": "5F/5F",
+                "community": "",
+                "price": "12,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/04/08/164938103751480602.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938103861809204.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938103862692308.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938104110826906.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938104166265402.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938104563735807.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938104070219401.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/08/164938104593435403.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/08/164938104520908202.jpg!510x400.jpg"
+                ],
+                "section_name": "新興區",
+                "street_name": "渤海街",
+                "location": "新興區-渤海街71號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    },
+                    {
+                        "id": "14",
+                        "name": "免管理費"
+                    }
+                ],
+                "area": "23.6",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 272,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運信義國小站",
+                    "distance": "188公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "光華商圈/電梯陽台/歡迎高師大-廣東街",
+                "type": "1",
+                "post_id": 12392796,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "2F/2F",
+                "community": "",
+                "price": "5,900",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2021/08/28/163013352944606205.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028792170893007.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028782440170406.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/30/163028782066233201.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028781994551106.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028784219073403.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/30/163028794093824404.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/04/09/161795017197961501.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/04/09/161795017065901002.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/28/163013356060235805.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013355828620408.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/08/28/163013356146904707.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/08/28/163013355929907608.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "廣東二街",
+                "location": "苓雅區-廣東二街57號",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 70,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "restaurant",
+                    "desc": "距細說晨食",
+                    "distance": "6公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "近高醫/後驛站冬之戀綏遠",
+                "type": "1",
+                "post_id": 12392891,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "2F/2F",
+                "community": "",
+                "price": "6,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2020/05/15/158950652302879507.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652241811506.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652391820609.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950652849261900.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652283099001.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950653146989702.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950653102017206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950652156457908.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652606303006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/05/15/158950652890426204.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/05/15/158950657254399006.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "綏遠二街",
+                "location": "三民區-綏遠二街64號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "15",
+                        "name": "可短租"
+                    }
+                ],
+                "area": "5",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 160,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距後驛",
+                    "distance": "281公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "大3房簡約住宅－「四季花香-仁智」",
+                "type": "1",
+                "post_id": 12514786,
+                "kind_name": "整層住家",
+                "room_str": "3房2廳",
+                "floor_str": "2F/7F",
+                "community": "大統名人世界",
+                "price": "17,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2019/06/13/156040413776309503.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/06/13/156040415072132809.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040413891427006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414030882005.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414274911904.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414392867306.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414518119304.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414635564901.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/06/13/156040414159148303.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040415216289401.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414785893204.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/06/13/156040414954161808.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "仁智街",
+                "location": "苓雅區-仁智街106巷22號",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    }
+                ],
+                "area": "28",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 151,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運三多商圈站",
+                    "distance": "617公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 11960,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "生活機能優｜大坪數空間｜採光佳｜建國三路",
+                "type": "1",
+                "post_id": 12599503,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "3F/12F",
+                "community": "",
+                "price": "9,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/04/15/164998581137945209.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998673038395500.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998675465044706.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998643162923406.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/05/165174787829182702.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998662050159205.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998647688546506.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998664852919103.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998677701131006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998669886280308.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998671370237206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/04/15/164998681717675606.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164998699601664906.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164999838565082809.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/04/15/164999831723531402.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "建國三路",
+                "location": "三民區-建國三路437號",
+                "rent_tag": [
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "7",
+                "role_name": "代理人",
+                "contact": "喬居久住",
+                "refresh_time": "16分鐘內",
+                "yesterday_hit": 135,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運市議會(舊址)",
+                    "distance": "876公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "可短租.全新高醫Villa六星時尚套房",
+                "type": "1",
+                "post_id": 12606144,
+                "kind_name": "獨立套房",
+                "room_str": "",
+                "floor_str": "2F/6F",
+                "community": "",
+                "price": "7,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2013/06/18/137154393854529300.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/01/26/161159307666382605.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/06/18/137154391587126309.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/06/18/137154391868623904.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/06/18/137154392680368900.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/06/18/137154393086438205.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/06/18/137154393237069003.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/06/18/137154393493899908.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/06/18/137154393652609706.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "瀋陽街",
+                "location": "三民區-瀋陽街115巷",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "9",
+                "role_name": "屋主",
+                "contact": "陳小姐",
+                "refresh_time": "21分鐘內",
+                "yesterday_hit": 0,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距高雄車站",
+                    "distance": "616公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "高醫.巨蛋.美術館全新1大房2廳2陽台",
+                "type": "1",
+                "post_id": 12525331,
+                "kind_name": "整層住家",
+                "room_str": "1房2廳",
+                "floor_str": "12F/22F",
+                "community": "美術大悅",
+                "price": "20,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/05/01/165138942226699801.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138939702421608.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138943760603204.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138945407053205.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138946898952908.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138947131316701.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138954970535502.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/01/165138957318597006.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138957329538701.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/01/165138957518537505.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/01/165138967821035504.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "十全三路",
+                "location": "三民區-十全三路",
+                "rent_tag": [
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    },
+                    {
+                        "id": "7",
+                        "name": "可養寵物"
+                    },
+                    {
+                        "id": "8",
+                        "name": "有車位"
+                    }
+                ],
+                "area": "23",
+                "role_name": "仲介",
+                "contact": "林小姐",
+                "refresh_time": "21分鐘內",
+                "yesterday_hit": 204,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "bus_station",
+                    "desc": "距變電所(中華二路)",
+                    "distance": "90公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": "",
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "(大陽台)漢神巨蛋優質獨立套房",
+                "type": "1",
+                "post_id": 12609879,
+                "kind_name": "獨立套房",
+                "room_str": "",
+                "floor_str": "2F/5F",
+                "community": "",
+                "price": "9,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2018/03/09/152060376770723507.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2018/03/09/152060386789626606.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2018/03/09/152060387689991200.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/12/05/138622627029634702.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622627712939501.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2012/06/01/133853178224201103.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/12/05/138622629904184801.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622629366758006.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622628681429307.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2012/06/01/133853180721575003.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2013/12/05/138622633177293309.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2012/06/24/134054541131888400.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2013/12/05/138622775341663201.jpg!510x400.jpg"
+                ],
+                "section_name": "左營區",
+                "street_name": "文萊路",
+                "location": "左營區-文萊路",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "9",
+                "role_name": "屋主",
+                "contact": "陳先生",
+                "refresh_time": "29分鐘內",
+                "yesterday_hit": 0,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距生態園區站",
+                    "distance": "729公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "樹德國際學苑-雙人豪華大套房",
+                "type": "1",
+                "post_id": 12441843,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "3F/5F",
+                "community": "",
+                "price": "5,934",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2014/04/11/139718586414601203.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2016/04/19/146104816122268804.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2016/04/19/146104816278847405.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564196399105.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788564200830902.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564205336203.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564210617900.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788564212155600.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564216303906.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564219582505.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788564224524507.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788564227932905.jpg!510x400.jpg"
+                ],
+                "section_name": "燕巢區",
+                "street_name": "興龍路",
+                "location": "燕巢區-興龍路66號",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "7.2",
+                "role_name": "代理人",
+                "contact": "詹小姐",
+                "refresh_time": "31分鐘內",
+                "yesterday_hit": 136,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "restaurant",
+                    "desc": "距筱喻早餐",
+                    "distance": "238公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "電梯時尚套房.近高醫.火車站.漢神",
+                "type": "1",
+                "post_id": 12592429,
+                "kind_name": "獨立套房",
+                "room_str": "",
+                "floor_str": "5F/6F",
+                "community": "",
+                "price": "5,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/05/14/165249835057920703.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/14/165249835230499302.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/12/01/163835292440691904.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/12/01/163835292151801202.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/22/164282789438306805.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/01/22/164282793177020906.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/20/163737188122191307.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/20/163737189838250804.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/20/163737185455547008.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2021/11/20/163737185019774505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2021/11/20/163737199984080808.jpg!510x400.jpg"
+                ],
+                "section_name": "三民區",
+                "street_name": "更新街",
+                "location": "三民區-更新街",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "13",
+                        "name": "南北通透"
+                    }
+                ],
+                "area": "5.3",
+                "role_name": "屋主",
+                "contact": "李小姐",
+                "refresh_time": "51分鐘內",
+                "yesterday_hit": 490,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "bus_station",
+                    "desc": "距統聯客運中華站",
+                    "distance": "77公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "近福誠高中大三房二廳二衛亮通風生活機能佳",
+                "type": "1",
+                "post_id": 9376761,
+                "kind_name": "整層住家",
+                "room_str": "3房2廳",
+                "floor_str": "4F/5F",
+                "community": "福誠高中附近",
+                "price": "7,800",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2017/10/04/150710705056283708.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2017/10/04/150710703273361305.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2017/10/22/150863303591359902.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2017/10/04/150712270584758706.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2017/10/16/150814996524113305.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2017/10/04/150710716178759804.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2017/10/16/150814991638483609.jpg!510x400.jpg"
+                ],
+                "section_name": "前鎮區",
+                "street_name": "瑞春街",
+                "location": "前鎮區-瑞春街69巷",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    }
+                ],
+                "area": "26",
+                "role_name": "屋主",
+                "contact": "梁先生",
+                "refresh_time": "51分鐘內",
+                "yesterday_hit": 491,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距凱旋站",
+                    "distance": "812公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "樹德國際學苑<單人精緻套房>",
+                "type": "1",
+                "post_id": 12441941,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "2F/5F",
+                "community": "",
+                "price": "4,434",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2016/04/19/146104792104105701.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2016/04/19/146104790498638804.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788501869202906.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788501873233807.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788501878581702.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788501883463001.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788501888183001.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788501893144002.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788501898942502.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124788501901143001.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124788501905172802.jpg!510x400.jpg"
+                ],
+                "section_name": "燕巢區",
+                "street_name": "興龍路",
+                "location": "燕巢區-興龍路66號",
+                "rent_tag": [
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "6",
+                "role_name": "代理人",
+                "contact": "詹小姐",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 152,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "restaurant",
+                    "desc": "距筱喻早餐",
+                    "distance": "238公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "旗山書香院豪華雙人套房",
+                "type": "1",
+                "post_id": 12584359,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "2F/5F",
+                "community": "",
+                "price": "6,200",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2016/04/18/146096476786718208.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2016/04/18/146096475276512709.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124789731970327208.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124789731976683001.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124789731980062306.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124789731983497709.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124789731985293807.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124789731990754804.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124789731992912404.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124789731994843209.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124789731997662001.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124789731999489204.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2009/07/18/124789732001797804.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124789732007209807.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2009/07/18/124789732010232907.jpg!510x400.jpg"
+                ],
+                "section_name": "旗山區",
+                "street_name": "中正路",
+                "location": "旗山區-中正路542巷2號",
+                "rent_tag": [
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "9",
+                        "name": "有陽台"
+                    }
+                ],
+                "area": "7.2",
+                "role_name": "代理人",
+                "contact": "周小姐",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 94,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "bus_station",
+                    "desc": "距旗山轉運站",
+                    "distance": "574公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "美術皇居傢俱電全高檔裝潢美邸三房平車",
+                "type": "1",
+                "post_id": 12589898,
+                "kind_name": "整層住家",
+                "room_str": "3房2廳",
+                "floor_str": "6F/29F",
+                "community": "美術皇居",
+                "price": "60,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/05/13/165243456790135700.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165243456730635505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165243456766125202.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165243456788803001.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/13/165243456810377302.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165243456851260007.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/13/165243456851369503.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/13/165243456948210901.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165243456962048406.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/13/165243456973056301.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/13/165243457104928709.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165243468649831805.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/13/165243468672156704.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/13/165243468657982005.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165243468715286200.jpg!510x400.jpg"
+                ],
+                "section_name": "鼓山區",
+                "street_name": "美術北五街",
+                "location": "鼓山區-美術北五街",
+                "rent_tag": [
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    },
+                    {
+                        "id": "8",
+                        "name": "有車位"
+                    },
+                    {
+                        "id": "13",
+                        "name": "南北通透"
+                    }
+                ],
+                "area": "63.7",
+                "role_name": "仲介",
+                "contact": "林小姐",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 162,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "bus_station",
+                    "desc": "距臺鐵內惟站",
+                    "distance": "11公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": "",
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "可附全傢俱電可養寵~巨蛋高樓景觀四房平車",
+                "type": "1",
+                "post_id": 12591212,
+                "kind_name": "整層住家",
+                "room_str": "4房2廳",
+                "floor_str": "16F/16F",
+                "community": "京城御花園",
+                "price": "28,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/05/15/165257545430389001.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165245281123618907.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/13/165245284552396800.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/15/165257516663559406.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/15/165257516772517406.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/15/165257516819769005.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/15/165257516796776600.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/15/165257516843087905.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/15/165257517051771400.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/15/165257517121266101.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/15/165257517084568707.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/15/165257517231530907.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/15/165257527251656801.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/15/165257527357327507.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/05/15/165257527450299507.jpg!510x400.jpg"
+                ],
+                "section_name": "鼓山區",
+                "street_name": "文信路",
+                "location": "鼓山區-文信路",
+                "rent_tag": [
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    }
+                ],
+                "area": "47.7",
+                "role_name": "仲介",
+                "contact": "林小姐",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 179,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距巨蛋站",
+                    "distance": "714公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 23071,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "溫馨二房+汽車車位",
+                "type": "1",
+                "post_id": 12555805,
+                "kind_name": "整層住家",
+                "room_str": "2房1廳",
+                "floor_str": "13F/14F",
+                "community": "美麗city",
+                "price": "23,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/01/08/164161736219358509.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/01/08/164161736911841105.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/08/164161737647496401.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/08/164161738273174107.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/01/08/164161738771283901.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/01/08/164161739159960807.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/01/08/164161739470050207.jpg!510x400.jpg"
+                ],
+                "section_name": "鼓山區",
+                "street_name": "文忠路",
+                "location": "鼓山區-文忠路",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "4",
+                        "name": "近商圈"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "26",
+                "role_name": "屋主",
+                "contact": "張太太",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 90,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距巨蛋站",
+                    "distance": "569公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 70503,
+                "is_video": 0,
+                "preferred": 0
+            },
+            {
+                "title": "溫馨高CP值套房-近光華夜市/家樂福",
+                "type": "1",
+                "post_id": 12575002,
+                "kind_name": "獨立套房",
+                "room_str": "",
+                "floor_str": "3F/4F",
+                "community": "",
+                "price": "8,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2020/09/10/159967282712513601.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/09/10/159967282616010104.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/09/10/159967255678784708.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2020/09/10/159967258917490903.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/09/10/159967255539890606.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2020/03/24/158504158891386805.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/03/18/155290040708552800.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/03/18/155290040457926007.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2019/03/18/155290184020306207.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2019/03/18/155290199494804202.jpg!510x400.jpg"
+                ],
+                "section_name": "苓雅區",
+                "street_name": "廣西路",
+                "location": "苓雅區-廣西路113號",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "16",
+                        "name": "新上架"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "15",
+                        "name": "可短租"
+                    }
+                ],
+                "area": "7",
+                "role_name": "屋主",
+                "contact": "施先生",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 174,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運三多商圈站",
+                    "distance": "1451公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 1
+            },
+            {
+                "title": "全新明亮乾淨寬敞捷運大坪數車位可租",
+                "type": "1",
+                "post_id": 12511858,
+                "kind_name": "整層住家",
+                "room_str": "3房1廳",
+                "floor_str": "15F/15F",
+                "community": "和風建案",
+                "price": "35,000",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img2.591.com.tw/house/2022/03/27/164835603553195005.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835603619707804.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/27/164835603666485008.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835603678083700.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835603662326002.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/27/164835603675184701.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835603765533206.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/27/164835604326545902.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835603932781505.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/03/27/164835603871663803.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835603921938905.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835604007418608.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835604011408705.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835604225837009.jpg!510x400.jpg",
+                    "https://img2.591.com.tw/house/2022/03/27/164835604127271004.jpg!510x400.jpg"
+                ],
+                "section_name": "新興區",
+                "street_name": "渤海街",
+                "location": "新興區-渤海街25號",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "17",
+                        "name": "影片房屋"
+                    },
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "10",
+                        "name": "有電梯"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    },
+                    {
+                        "id": "6",
+                        "name": "可開伙"
+                    }
+                ],
+                "area": "54.1",
+                "role_name": "屋主",
+                "contact": "詹小姐",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 23,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運信義國小站",
+                    "distance": "108公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": "",
+                "is_video": 1,
+                "preferred": 1
+            },
+            {
+                "title": "生活機能💯.家電齊全❗.室內機車🅿",
+                "type": "1",
+                "post_id": 12527729,
+                "kind_name": "分租套房",
+                "room_str": "",
+                "floor_str": "3F/4F",
+                "community": "",
+                "price": "7,500",
+                "price_unit": "元/月",
+                "photo_list": [
+                    "https://img1.591.com.tw/house/2022/05/02/165145300079068700.jpg!510x400.jpg",
+                    "https://img1.591.com.tw/house/2022/05/02/165145300083459708.jpg!510x400.jpg"
+                ],
+                "section_name": "鳳山區",
+                "street_name": "中山東路",
+                "location": "鳳山區-中山東路214巷",
+                "rent_tag": [
+                    {
+                        "id": "1",
+                        "name": "屋主直租"
+                    },
+                    {
+                        "id": "2",
+                        "name": "近捷運"
+                    },
+                    {
+                        "id": "3",
+                        "name": "拎包入住"
+                    },
+                    {
+                        "id": "5",
+                        "name": "隨時可遷入"
+                    }
+                ],
+                "area": "11.5",
+                "role_name": "屋主",
+                "contact": "顏先生",
+                "refresh_time": "2小時內",
+                "yesterday_hit": 53,
+                "is_vip": 1,
+                "is_combine": 1,
+                "hurry": 0,
+                "is_socail": 0,
+                "surrounding": {
+                    "type": "subway_station",
+                    "desc": "距捷運鳳山國中站",
+                    "distance": "551公尺"
+                },
+                "discount_price_str": "",
+                "cases_id": 0,
+                "is_video": 0,
+                "preferred": 0
+            }
+        ],
+        "page": "<a class=\"pagePrev first\"><span>上一頁</span></a><span class=\"pageCurrent\">1</span><a class=\"pageNum-form\" href=\"javascript:;\"  data-first=\"30\" data-total=\"5179\" >2</a><a class=\"pageNum-form\" href=\"javascript:;\"  data-first=\"60\" data-total=\"5179\" >3</a><a class=\"pageNum-form\" href=\"javascript:;\"  data-first=\"90\" data-total=\"5179\" >4</a><a class=\"pageNum-form\" href=\"javascript:;\"  data-first=\"120\" data-total=\"5179\" >5</a><a class=\"pageNum-form\" href=\"javascript:;\"  data-first=\"150\" data-total=\"5179\" >6</a><span class=\"pageBreak\">...</span><a class=\"pageNum-form\" href=\"javascript:;\"  data-first=\"5160\" data-total=\"5179\" >173</a><a href=\"javascript:;\" data-first=\"30\" data-total=\"5179\"  class=\"pageNext\"><span>下一頁</span></a><span class=\"TotalRecord\">&nbsp;&nbsp;共 <span class=\"R\">5179 </span>筆</span>"
+    },
+    "records": "5,179",
+    "is_recom": 0,
+    "deal_recom": [],
+    "online_social_user": 0,
+    "bluekai_data": {
+        "region_id": "1",
+        "section_id": "",
+        "sale_price": 0,
+        "rental_price": 0,
+        "unit_price_per_ping": "",
+        "room": "",
+        "shape": "",
+        "mrt_city": "",
+        "mrt_line": "",
+        "tag": 0,
+        "type": "rent",
+        "kind": "0",
+        "page": "rent_list"
+    },
+    "recommend": [],
+    "seo": {
+        "title": "台北市租屋 | 房屋出租 - 591租屋網",
+        "keywords": "台北市租屋,台北市租屋網,台北市房屋出租",
+        "description": "591租屋網，出租就是快！為您提供台北市租屋資訊，每日實時更新，人工審核。台北市租房子、刊登租屋資訊，就上591！"
+    }
+}

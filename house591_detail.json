@@ -1,0 +1,1049 @@
+{
+    "status": 1,
+    "msg": "",
+    "data": {
+      "breadcrumb": [
+        {
+          "name": "台北市",
+          "id": 1,
+          "query": "region",
+          "link": "/?region=1"
+        },
+        {
+          "name": "大安區",
+          "id": 5,
+          "query": "section",
+          "link": "/?region=1&section=5"
+        },
+        {
+          "name": "雅房",
+          "id": 4,
+          "query": "kind",
+          "link": "/?region=1&section=5&kind=4"
+        }
+      ],
+      "title": "HOMY品牌共生公寓忠孝復興走路30秒",
+      "deposit": "押金二個月",
+      "kind": 4,
+      "relieved": 0,
+      "regionId": 1,
+      "sectionId": 5,
+      "shareInfo": {
+        "url": "https://www.591.com.tw/1R?salt=wX5G&s=",
+        "from": "來自【591租屋】",
+        "title": "台北市大安區，雅房出租，17000元/月，詳情："
+      },
+      "dealText": "",
+      "dealTime": 0,
+      "browse": {
+        "pc": 25,
+        "mobile": 22
+      },
+      "tags": [
+        {
+          "id": 1,
+          "value": "屋主直租"
+        },
+        {
+          "id": 2,
+          "value": "近捷運"
+        },
+        {
+          "id": 16,
+          "value": "新上架"
+        },
+        {
+          "id": 3,
+          "value": "拎包入住"
+        },
+        {
+          "id": 4,
+          "value": "近商圈"
+        },
+        {
+          "id": 5,
+          "value": "隨時可遷入"
+        }
+      ],
+      "price": "17,000",
+      "priceUnit": "元/月",
+      "navData": [
+        {
+          "title": "位置與周邊",
+          "key": "positionRound",
+          "active": 1
+        },
+        {
+          "title": "設備與服務",
+          "key": "service",
+          "active": 1
+        },
+        {
+          "title": "屋主說",
+          "key": "remark",
+          "active": 1
+        },
+        {
+          "title": "房屋詳情",
+          "key": "houseDetail",
+          "active": 1
+        },
+        {
+          "title": "向屋主提問",
+          "key": "question",
+          "active": 1
+        }
+      ],
+      "priceCacheTxt": "",
+      "priceCache": [],
+      "info": [
+        {
+          "name": "類型",
+          "value": "雅房",
+          "key": "kind"
+        },
+        {
+          "name": "坪數",
+          "value": "7坪",
+          "key": "area"
+        },
+        {
+          "name": "樓層",
+          "value": "2F/4F",
+          "key": "floor"
+        },
+        {
+          "name": "型態",
+          "value": "公寓",
+          "key": "shape"
+        }
+      ],
+      "publish": {
+        "id": 2,
+        "name": "新發佈",
+        "key": "new",
+        "postTime": "此房屋在21小時前發佈",
+        "updateTime": "17分鐘內更新"
+      },
+      "rooms": {
+        "title": "所有房間",
+        "key": "room",
+        "active": 0,
+        "data": [
+          {
+            "name": "房間一",
+            "kind": "雅房",
+            "area": "7坪",
+            "floor": "2F/4F",
+            "price": "17,000元/月"
+          }
+        ]
+      },
+      "positionRound": {
+        "title": "位置與周邊",
+        "key": "positionRound",
+        "active": 1,
+        "communityName": "",
+        "communityId": 0,
+        "address": "大安區忠孝東路三段251巷",
+        "lat": "25.0421040",
+        "lng": "121.5426030",
+        "data": [
+          {
+            "name": "交通",
+            "key": "traffic",
+            "children": [
+              {
+                "type": "subway",
+                "name": "忠孝復興站",
+                "distance": 130,
+                "distanceTxt": "距房屋約130公尺"
+              },
+              {
+                "type": "subway",
+                "name": "樂炸特區FUNNY FRIED ZONE站",
+                "distance": 280,
+                "distanceTxt": "距房屋約280公尺"
+              },
+              {
+                "type": "bus",
+                "name": "捷運忠孝復興站",
+                "distance": 32,
+                "distanceTxt": "距房屋約32公尺"
+              }
+            ]
+          },
+          {
+            "name": "生活",
+            "key": "live",
+            "children": [
+              {
+                "type": "restaurant",
+                "name": "王記牛肉麵大王",
+                "distance": 22,
+                "distanceTxt": "距房屋約22公尺"
+              },
+              {
+                "type": "shop",
+                "name": "Wow wow歡樂城",
+                "distance": 70,
+                "distanceTxt": "距房屋約70公尺"
+              },
+              {
+                "type": "",
+                "name": "",
+                "distance": 0,
+                "distanceTxt": "附近有19家購物中心，20家餐廳"
+              }
+            ]
+          },
+          {
+            "name": "教育",
+            "key": "education",
+            "children": [
+              {
+                "type": "primary",
+                "name": "懷生國小",
+                "distance": 359,
+                "distanceTxt": "距房屋約359公尺"
+              },
+              {
+                "type": "university",
+                "name": "國立臺北科技大學",
+                "distance": 492,
+                "distanceTxt": "距房屋約492公尺"
+              },
+              {
+                "type": "",
+                "name": "",
+                "distance": 0,
+                "distanceTxt": "附近有7所國小，3所國中，1所大學"
+              }
+            ]
+          }
+        ],
+        "mapData": [
+          {
+            "name": "交通",
+            "key": "traffic",
+            "children": [
+              {
+                "name": "捷運",
+                "key": "subway",
+                "children": [
+                  {
+                    "name": "忠孝復興站",
+                    "lat": "25.0416216",
+                    "lng": "121.5437808",
+                    "distance": 130,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 142
+                  },
+                  {
+                    "name": "樂炸特區FUNNY FRIED ZONE站",
+                    "lat": "25.0415710",
+                    "lng": "121.5453206",
+                    "distance": 280,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 94
+                  },
+                  {
+                    "name": "忠孝敦化站",
+                    "lat": "25.0413698",
+                    "lng": "121.5504928",
+                    "distance": 800,
+                    "trading_area_id": 66142,
+                    "trading_area_distance": 123
+                  },
+                  {
+                    "name": "忠孝新生站",
+                    "lat": "25.0423600",
+                    "lng": "121.5329000",
+                    "distance": 979,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "大安站",
+                    "lat": "25.0329936",
+                    "lng": "121.5435968",
+                    "distance": 1019,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "南京復興站",
+                    "lat": "25.0523757",
+                    "lng": "121.5440747",
+                    "distance": 1164,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "大安森林公園站",
+                    "lat": "25.0335070",
+                    "lng": "121.5352140",
+                    "distance": 1205,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  }
+                ]
+              },
+              {
+                "name": "公車",
+                "key": "bus",
+                "children": [
+                  {
+                    "name": "捷運忠孝復興站",
+                    "lat": "25.0418145",
+                    "lng": "121.5425977",
+                    "distance": 32,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 243
+                  },
+                  {
+                    "name": "懷生國中站",
+                    "lat": "25.0395782",
+                    "lng": "121.5435821",
+                    "distance": 298,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 336
+                  },
+                  {
+                    "name": "懷生國小站",
+                    "lat": "25.0447520",
+                    "lng": "121.5412820",
+                    "distance": 323,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 456
+                  },
+                  {
+                    "name": "正義郵局站",
+                    "lat": "25.0418873",
+                    "lng": "121.5392822",
+                    "distance": 337,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "仁愛建國路口二站",
+                    "lat": "25.0378930",
+                    "lng": "121.5407560",
+                    "distance": 504,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "中影八德大樓站",
+                    "lat": "25.0466909",
+                    "lng": "121.5408099",
+                    "distance": 540,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "仁愛建國路口一站",
+                    "lat": "25.0381785",
+                    "lng": "121.5394447",
+                    "distance": 541,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "空軍總部站",
+                    "lat": "25.0404931",
+                    "lng": "121.5372310",
+                    "distance": 567,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "仁愛大安路口站",
+                    "lat": "25.0378220",
+                    "lng": "121.5457910",
+                    "distance": 575,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "忠孝敦化路口站",
+                    "lat": "25.0421368",
+                    "lng": "121.5487615",
+                    "distance": 621,
+                    "trading_area_id": 66142,
+                    "trading_area_distance": 298
+                  },
+                  {
+                    "name": "捷運忠孝敦化站",
+                    "lat": "25.0429260",
+                    "lng": "121.5491560",
+                    "distance": 667,
+                    "trading_area_id": 66142,
+                    "trading_area_distance": 290
+                  },
+                  {
+                    "name": "仁愛敦化路口站",
+                    "lat": "25.0380000",
+                    "lng": "121.5475460",
+                    "distance": 676,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "懷生國宅站",
+                    "lat": "25.0446300",
+                    "lng": "121.5358120",
+                    "distance": 740,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "臺安醫院站",
+                    "lat": "25.0483296",
+                    "lng": "121.5453710",
+                    "distance": 747,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "生活",
+            "key": "live",
+            "children": [
+              {
+                "name": "購物",
+                "key": "shop",
+                "children": [
+                  {
+                    "name": "Wow wow歡樂城",
+                    "lat": "25.0427254",
+                    "lng": "121.5424955",
+                    "distance": 70,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 250
+                  },
+                  {
+                    "name": "TASAKI SOGO BR4",
+                    "lat": "25.0413366",
+                    "lng": "121.5430788",
+                    "distance": 98,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 218
+                  },
+                  {
+                    "name": "GUCCI珠寶手錶",
+                    "lat": "25.0408279",
+                    "lng": "121.5434078",
+                    "distance": 120,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 228
+                  },
+                  {
+                    "name": "TNB。時尚概念店。",
+                    "lat": "25.0434958",
+                    "lng": "121.5428808",
+                    "distance": 158,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 244
+                  },
+                  {
+                    "name": "娇兰",
+                    "lat": "25.0418698",
+                    "lng": "121.5446329",
+                    "distance": 206,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 61
+                  },
+                  {
+                    "name": "卡樂米國際有限公司",
+                    "lat": "25.0418720",
+                    "lng": "121.5448650",
+                    "distance": 230,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 53
+                  },
+                  {
+                    "name": "L/UNIFORM 忠孝SOGO專櫃",
+                    "lat": "25.0419689",
+                    "lng": "121.5449021",
+                    "distance": 232,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 41
+                  },
+                  {
+                    "name": "SOGO忠孝館_Dr.Martens專櫃",
+                    "lat": "25.0419622",
+                    "lng": "121.5446230",
+                    "distance": 234,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 53
+                  },
+                  {
+                    "name": "惠而麗",
+                    "lat": "25.0418650",
+                    "lng": "121.5449141",
+                    "distance": 236,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 53
+                  },
+                  {
+                    "name": "東區地下街入口",
+                    "lat": "25.0413923",
+                    "lng": "121.5459874",
+                    "distance": 350,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 149
+                  },
+                  {
+                    "name": "東區商圈",
+                    "lat": "25.0418367",
+                    "lng": "121.5464924",
+                    "distance": 401,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 166
+                  },
+                  {
+                    "name": "惠康忠孝",
+                    "lat": "25.0420022",
+                    "lng": "121.5467576",
+                    "distance": 419,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 187
+                  },
+                  {
+                    "name": "贈品櫃檯",
+                    "lat": "25.0460911",
+                    "lng": "121.5428558",
+                    "distance": 445,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 467
+                  },
+                  {
+                    "name": "中居美嘉明星名牌服裝",
+                    "lat": "25.0426730",
+                    "lng": "121.5472747",
+                    "distance": 475,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 238
+                  },
+                  {
+                    "name": "微風廣場",
+                    "lat": "25.0461678",
+                    "lng": "121.5445152",
+                    "distance": 492,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 428
+                  },
+                  {
+                    "name": "alexander wang微風廣場",
+                    "lat": "25.0461055",
+                    "lng": "121.5449393",
+                    "distance": 504,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 419
+                  },
+                  {
+                    "name": "東區地下街第三廣場",
+                    "lat": "25.0416457",
+                    "lng": "121.5477136",
+                    "distance": 517,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 290
+                  },
+                  {
+                    "name": "頂好名店城",
+                    "lat": "25.0418395",
+                    "lng": "121.5478682",
+                    "distance": 532,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 300
+                  },
+                  {
+                    "name": "圓緣坊紅線",
+                    "lat": "25.0417851",
+                    "lng": "121.5478806",
+                    "distance": 533,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 302
+                  }
+                ]
+              },
+              {
+                "name": "餐飲",
+                "key": "restaurant",
+                "children": [
+                  {
+                    "name": "王記牛肉麵大王",
+                    "lat": "25.0422222",
+                    "lng": "121.5427778",
+                    "distance": 22,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 219
+                  },
+                  {
+                    "name": "安東58",
+                    "lat": "25.0421210",
+                    "lng": "121.5428507",
+                    "distance": 25,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 212
+                  },
+                  {
+                    "name": "蜀香居",
+                    "lat": "25.0421610",
+                    "lng": "121.5429949",
+                    "distance": 40,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 197
+                  },
+                  {
+                    "name": "BT BURGER",
+                    "lat": "25.0424725",
+                    "lng": "121.5426845",
+                    "distance": 43,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 228
+                  },
+                  {
+                    "name": "四海木須麵",
+                    "lat": "25.0425662",
+                    "lng": "121.5426450",
+                    "distance": 52,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 233
+                  },
+                  {
+                    "name": "西班牙大眾酒場",
+                    "lat": "25.0426016",
+                    "lng": "121.5424971",
+                    "distance": 56,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 248
+                  },
+                  {
+                    "name": "PLUS BELLE 好時光迴廊藝文廚坊",
+                    "lat": "25.0426848",
+                    "lng": "121.5417066",
+                    "distance": 69,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 328
+                  },
+                  {
+                    "name": "TASTY西堤牛排台北復興南店",
+                    "lat": "25.0422741",
+                    "lng": "121.5434409",
+                    "distance": 87,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 151
+                  },
+                  {
+                    "name": "柳橙屋",
+                    "lat": "25.0424196",
+                    "lng": "121.5418081",
+                    "distance": 88,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 316
+                  },
+                  {
+                    "name": "桂師父滷味",
+                    "lat": "25.0429097",
+                    "lng": "121.5424078",
+                    "distance": 92,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 263
+                  },
+                  {
+                    "name": "萬佳鄉",
+                    "lat": "25.0421612",
+                    "lng": "121.5416693",
+                    "distance": 94,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 330
+                  },
+                  {
+                    "name": "合掌村（忠孝2店）",
+                    "lat": "25.0428727",
+                    "lng": "121.5421961",
+                    "distance": 95,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 283
+                  },
+                  {
+                    "name": "食舖飯館",
+                    "lat": "25.0424075",
+                    "lng": "121.5417011",
+                    "distance": 97,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 327
+                  },
+                  {
+                    "name": "90Sec Pizza Bistro（復興店）",
+                    "lat": "25.0429317",
+                    "lng": "121.5422976",
+                    "distance": 97,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 275
+                  },
+                  {
+                    "name": "福來早餐 安東店",
+                    "lat": "25.0429317",
+                    "lng": "121.5422976",
+                    "distance": 97,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 275
+                  },
+                  {
+                    "name": "馬辣頂級麻辣鴛鴦火鍋-復興店",
+                    "lat": "25.0422148",
+                    "lng": "121.5435749",
+                    "distance": 99,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 139
+                  },
+                  {
+                    "name": "小飯桌精緻自助餐/清粥小菜/外送便當",
+                    "lat": "25.0423347",
+                    "lng": "121.5435528",
+                    "distance": 99,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 140
+                  },
+                  {
+                    "name": "SUBWAY 忠孝復興店",
+                    "lat": "25.0423811",
+                    "lng": "121.5435520",
+                    "distance": 101,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 140
+                  },
+                  {
+                    "name": "日本拉麵",
+                    "lat": "25.0424394",
+                    "lng": "121.5416737",
+                    "distance": 101,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 330
+                  },
+                  {
+                    "name": "拉麵JAPAN",
+                    "lat": "25.0424518",
+                    "lng": "121.5416739",
+                    "distance": 101,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 330
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "教育",
+            "key": "education",
+            "children": [
+              {
+                "name": "國小",
+                "key": "primary",
+                "children": [
+                  {
+                    "name": "懷生國小",
+                    "lat": "25.0452404",
+                    "lng": "121.5417844",
+                    "distance": 359,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 453
+                  },
+                  {
+                    "name": "奧斯頓語文學院。兒童美語 (敦化國小旁、近台安醫院)",
+                    "lat": "25.0480452",
+                    "lng": "121.5465265",
+                    "distance": 771,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "幸安國小",
+                    "lat": "25.0368931",
+                    "lng": "121.5349617",
+                    "distance": 919,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "臺北市松山區敦化國民小學",
+                    "lat": "25.0491523",
+                    "lng": "121.5481039",
+                    "distance": 961,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "中正國小",
+                    "lat": "25.0506621",
+                    "lng": "121.5393708",
+                    "distance": 1007,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "忠孝國小",
+                    "lat": "25.0430886",
+                    "lng": "121.5315814",
+                    "distance": 1117,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "仁愛國小",
+                    "lat": "25.0356721",
+                    "lng": "121.5513481",
+                    "distance": 1192,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  }
+                ]
+              },
+              {
+                "name": "國中",
+                "key": "secondary",
+                "children": [
+                  {
+                    "name": "臺北市私立復興實驗高級中學",
+                    "lat": "25.0391975",
+                    "lng": "121.5475801",
+                    "distance": 597,
+                    "trading_area_id": 66118,
+                    "trading_area_distance": 439
+                  },
+                  {
+                    "name": "台北市私立延平高級中學",
+                    "lat": "25.0364857",
+                    "lng": "121.5391975",
+                    "distance": 714,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  },
+                  {
+                    "name": "國立台灣師範大學附屬高級中學",
+                    "lat": "25.0336592",
+                    "lng": "121.5404218",
+                    "distance": 965,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  }
+                ]
+              },
+              {
+                "name": "大學",
+                "key": "university",
+                "children": [
+                  {
+                    "name": "國立臺北科技大學",
+                    "lat": "25.0427803",
+                    "lng": "121.5377816",
+                    "distance": 492,
+                    "trading_area_id": 0,
+                    "trading_area_distance": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "service": {
+        "title": "設備與服務",
+        "key": "service",
+        "active": 1,
+        "facility": [
+          {
+            "key": "fridge",
+            "active": 1,
+            "name": "冰箱"
+          },
+          {
+            "key": "washer",
+            "active": 1,
+            "name": "洗衣機"
+          },
+          {
+            "key": "tv",
+            "active": 1,
+            "name": "電視"
+          },
+          {
+            "key": "cold",
+            "active": 1,
+            "name": "冷氣"
+          },
+          {
+            "key": "heater",
+            "active": 1,
+            "name": "熱水器"
+          },
+          {
+            "key": "bed",
+            "active": 1,
+            "name": "床"
+          },
+          {
+            "key": "closet",
+            "active": 1,
+            "name": "衣櫃"
+          },
+          {
+            "key": "fourth",
+            "active": 1,
+            "name": "第四台"
+          },
+          {
+            "key": "net",
+            "active": 1,
+            "name": "網路"
+          },
+          {
+            "key": "gas",
+            "active": 1,
+            "name": "天然瓦斯"
+          },
+          {
+            "key": "sofa",
+            "active": 1,
+            "name": "沙發"
+          },
+          {
+            "key": "table_chairs",
+            "active": 1,
+            "name": "桌椅"
+          },
+          {
+            "key": "balcony",
+            "active": 1,
+            "name": "陽台"
+          },
+          {
+            "key": "lift",
+            "active": 0,
+            "name": "電梯"
+          },
+          {
+            "key": "park",
+            "active": 0,
+            "name": "車位"
+          }
+        ],
+        "desc": "最短租期一年，可隨時遷入",
+        "rule": "此房屋限女生租住，不可養寵物；適合上班族"
+      },
+      "preference": {
+        "title": "優選理由",
+        "active": 0,
+        "footnote": "",
+        "data": []
+      },
+      "remark": {
+        "title": "屋主說",
+        "key": "remark",
+        "active": 1,
+        "content": "【HOMY.忠孝復興】<br /><br />#波希米亞渡假風<br />#四房兩衛一陽台<br />#2樓不用爬高高<br />#大台北地區的中心點，出差出國都方便<br />#捷運站走路20秒可到不是30秒<br />#錢櫃唱歌2分鐘到家<br />#給喜愛與人交友的妳<br />#北漂另一個溫暖的家<br /><br />Room A 大雅房&nbsp;-14000 (已出租)<br />Room B 大套房&nbsp;-18000(原價格)<br />Room C &nbsp;&nbsp;雅房&nbsp;-13500 &nbsp;(已出租)<br />Room D &nbsp;&nbsp;雅房&nbsp;-14000 &nbsp;(已出租)<br /><br />請私訊告訴我：<br /><br />1.&nbsp;為什麽你想加入<br />2.&nbsp;預計何時開始起租<br />3.&nbsp;關於你<br />4.&nbsp;是否可以共同維護公共區整潔<br /><br />＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br /><br />【地點】忠孝東路SOGO復興館對面<br />【房型】4房2衛家庭式品牌共生公寓<br />【樓層】靜巷2樓免爬高高樓梯<br />【租金包含】光纖網路費<br />【能源費】水、電、瓦斯、室友均攤<br />【租期】一年起<br />【押金】2個月<br />【可入住日期】隨時<br />【寵物】禁寵<br />【每房限住女性1人】<br />【垃圾及公共區清潔需要自理或是大家輪流】<br />&nbsp;【全館禁菸】<br />【其他設備】50吋超大液晶電視、冷氣、全新samsung智能變頻冰箱、全新微電腦恆溫熱水器、<br />防打結洗衣機、明火雙爐系統廚具、Super MOD、全新裝修首次入住<br /><br />附近採買購物一次搞定～<br />食衣住行超方便～<br />這邊哪裡上班都超方便～<br /><br />#HOMY+品牌共生公寓<br />#忠孝東路四段#忠孝復興站<br />#大安區#租房#台北租房<br />#可炊#共居#共生#coliving<br /><br />動作太慢馬上就會被搶走喔!<br /><br />5/21(六)14:00 OPEN可看房～<br /><br />歡迎來電預約黃先生0939-160202\r\n附近有便利商店、傳統市場、百貨公司、公園綠地、學校、醫療機構。\r\n本房屋近忠孝復興公車站、忠孝復興捷運站。"
+      },
+      "houseDetail": {
+        "title": "房屋詳情",
+        "key": "houseDetail",
+        "active": 1
+      },
+      "costData": {
+        "title": "租住本房屋會產生下面這些費用",
+        "active": 1,
+        "data": [
+          {
+            "name": "租金含",
+            "value": "第四台、網路",
+            "key": "priceadd"
+          },
+          {
+            "name": "押金",
+            "value": "二個月",
+            "key": "deposit"
+          },
+          {
+            "name": "管理費",
+            "value": "無",
+            "key": "manageprice"
+          }
+        ]
+      },
+      "infoData": {
+        "title": "房屋未辦產權登記",
+        "active": 1,
+        "data": [
+          {
+            "name": "法定用途",
+            "value": "見使用執照",
+            "key": "purpose",
+            "alias": "",
+            "cate": 2
+          },
+          {
+            "name": "產權登記",
+            "value": "未辦理",
+            "key": "hasCertificate",
+            "alias": "",
+            "cate": 2
+          },
+          {
+            "name": "隔間材料",
+            "value": "水泥磚牆",
+            "key": "spacematerial",
+            "alias": "",
+            "cate": 2
+          }
+        ],
+        "hasCertificate": 1
+      },
+      "questionData": {
+        "title": "向屋主提問",
+        "key": "question",
+        "active": 1
+      },
+      "linkInfo": {
+        "avatar": "https://images.591.com.tw/index/medium/no-photo-new.png",
+        "chargeTxt": "",
+        "name": "屋主: 黃先生",
+        "role": 1,
+        "roleName": "屋主",
+        "roleTxt": "2008年加入591",
+        "certificateStatus": 0,
+        "certificateTxt": "",
+        "line": "",
+        "imUid": 111752,
+        "imName": "黃先生",
+        "isTransferTel": 0,
+        "mobile": "0939-160-202",
+        "phone": "02-27083307",
+        "uid": 111752,
+        "warnmsg": 1,
+        "tips": "有7人正在查看此房屋",
+        "shopVolume": 0,
+        "shopStatus": 0,
+        "shopId": 0,
+        "rentNum": 0,
+        "saleNum": 0,
+        "skillCases": [],
+        "skillWork": []
+      },
+      "favData": {
+        "thumb": "https://img1.591.com.tw/house/2019/03/18/155289448467151503.jpg!190x150.water2.jpg",
+        "title": "HOMY品牌共生公寓忠孝復興走路30秒",
+        "layout": "",
+        "address": "台北市大安區忠孝東路三段251巷",
+        "price": 17000,
+        "area": "7",
+        "kindTxt": "雅房",
+        "posttime": 1653014574,
+        "count": 0
+      }
+    }
+  }
