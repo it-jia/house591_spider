@@ -41,6 +41,9 @@ class House591Spider():
             params += ''.join([f'&{key}={value}' for key, value, in filter_params.items()])
         else:
             params += '&region=1&kind=0'
+        # 在 cookie 設定地區縣市，避免某些條件無法取得資料
+        s.cookies.set('urlJumpIp', filter_params.get('region', '1') if filter_params else '1', domain='.591.com.tw')
+
         # 排序參數
         if sort_params:
             params += ''.join([f'&{key}={value}' for key, value, in sort_params.items()])
